@@ -149,5 +149,6 @@
     "repos": {
       "images": "tejaswigowda/dealsinaz/images"
     }
-  }
+  },
+  "stylesheet": "linked"
 }
