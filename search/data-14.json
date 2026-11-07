@@ -2,6 +2,14 @@
   "version": 1,
   "posts": [
     {
+      "slug": "testing-8",
+      "title": "testing 8",
+      "date": "2026-11-07",
+      "tags": [],
+      "excerpt": "testing 8",
+      "text": "testing 8"
+    },
+    {
       "slug": "want-to-see-what-amazon-knows-or-thinks-it-knows-about-you-f",
       "title": "Want to See What Amazon Knows About You? Some Tidbits are Shocking...Find Out Here!",
       "date": "2026-10-15",
