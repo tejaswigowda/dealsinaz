@@ -10,7 +10,8 @@
   },
   "search": true,
   "pagination": {
-    "size": 10
+    "size": 10,
+    "stable": true
   },
   "customize": {
     "colors": {
