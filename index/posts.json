@@ -7,6 +7,7 @@
     "dir": "desc"
   },
   "sequence": [
+    "test2",
     "military-families-are-eligible-for-an-extra-20-off-at-target",
     "my-favorite-deals-at-the-grocery-stores-this-week-4",
     "smoking-hot-get-up-to-100-back-in-wayfair-credit-with-review",
@@ -8007,6 +8008,17 @@
     "hot-cinco-de-mayo-sale-at-6pm-com-78-cole-haan-sunglasses-fo"
   ],
   "posts": [
+    {
+      "slug": "test2",
+      "title": "test2",
+      "date": "2026-11-07",
+      "tags": [],
+      "excerpt": "testing 2",
+      "cover": "asset:images/5ab6b75a92-hc2rluqa.jpg",
+      "words": 2,
+      "status": "published",
+      "author": "Alicia Markham"
+    },
     {
       "slug": "military-families-are-eligible-for-an-extra-20-off-at-target",
       "title": "Military Families are Eligible for an EXTRA 20% off at Target Through 11/11! Get Verified Now!",
