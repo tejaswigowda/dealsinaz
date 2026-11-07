@@ -7,6 +7,7 @@
     "dir": "desc"
   },
   "sequence": [
+    "test-b3",
     "test2",
     "military-families-are-eligible-for-an-extra-20-off-at-target",
     "my-favorite-deals-at-the-grocery-stores-this-week-4",
@@ -8008,6 +8009,17 @@
     "hot-cinco-de-mayo-sale-at-6pm-com-78-cole-haan-sunglasses-fo"
   ],
   "posts": [
+    {
+      "slug": "test-b3",
+      "title": "test b3",
+      "date": "2026-11-07",
+      "tags": [],
+      "excerpt": "csc",
+      "cover": "asset:images/ef31e42728-fjoznw-.jpg",
+      "words": 1,
+      "status": "published",
+      "author": "Alicia Markham"
+    },
     {
       "slug": "test2",
       "title": "test2",

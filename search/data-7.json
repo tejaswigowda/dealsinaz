@@ -2,6 +2,14 @@
   "version": 1,
   "posts": [
     {
+      "slug": "test-b3",
+      "title": "test b3",
+      "date": "2026-11-07",
+      "tags": [],
+      "excerpt": "csc",
+      "text": "csc"
+    },
+    {
       "slug": "happy-amazon-prime-day-my-top-picks",
       "title": "Happy Amazon Prime Day! My Top Deal Picks (I Have Them All)!",
       "date": "2026-10-07",
