@@ -1,0 +1,32 @@
+---
+slug: last-day-for-hot-promo-code-deals-at-kohls
+title: LAST DAY for Hot Promo Code Deals at Kohls!
+date: 2015-06-28
+status: published
+---
+
+![kohls](https://dealsinaz.com/deals/wp-content/uploads/2014/12/kohls.png)
+
+![tentententen](https://dealsinaz.com/deals/wp-content/uploads/2015/06/tentententen.png)
+
+~~Today (June 28th) is the LAST DAY for some major bargains at Kohls.~~ [~~Head over here for some AWESOME deals using the promo codes below!~~](http://click.linksynergy.com/fs-bin/click?id=y2DT8GO2AJA&offerid=328293.469&subid=0&type=4) ~~No Kohl's charge required for any of them!~~
+
+[~~Use code SAVE10 or VACATION to get $10 off your $30 purchase.~~](http://click.linksynergy.com/fs-bin/click?id=y2DT8GO2AJA&offerid=328293.469&subid=0&type=4)
+
+[~~Use that code along with code SMS6166 to get 15% off your entire purchase.~~](http://click.linksynergy.com/fs-bin/click?id=y2DT8GO2AJA&offerid=328293.469&subid=0&type=4)
+
+[~~If you’re looking at outdoor toys, use code OUTDOOR20 to get 20% off them (use with the other two codes)!~~](http://click.linksynergy.com/fs-bin/click?id=y2DT8GO2AJA&offerid=328293.469&subid=0&type=4)
+
+~~Check your e-mail for a $5 off code too!~~
+
+~~Keep in mind that now pick up your orders in store when you order online (choose that option at checkout). That will save you big money on shipping charges!~~
+
+![towel](https://dealsinaz.com/deals/wp-content/uploads/2015/06/towel.jpeg)
+
+[~~Head over here to get highly rated The Big One beach towels marked down to just $8 (usually $25.99). Add four to your cart, you’re up to $32.~~](http://click.linksynergy.com/link?id=y2DT8GO2AJA&offerid=328293.95853790&type=2&murl=http%3A%2F%2Fwww.kohls.com%2Fproduct%2Fprd-1895512%2Fthe-big-one-chevron-beach-towel.jsp)
+
+[~~Use codes SUMMERTIME and SMS6166 to get the price down to $18.70. That’s just $4.68 a towel! And they’re available to be picked up at my Kohls!~~](http://click.linksynergy.com/link?id=y2DT8GO2AJA&offerid=328293.95853790&type=2&murl=http%3A%2F%2Fwww.kohls.com%2Fproduct%2Fprd-1895512%2Fthe-big-one-chevron-beach-towel.jsp)
+
+~~WOW!~~
+
+~~Let me know what bargains you find!~~

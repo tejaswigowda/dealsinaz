@@ -1,0 +1,13 @@
+---
+slug: sweet-save-40-off-soda-when-you-buy-three-or-more-packs-at-t
+title: SWEET...Save 40% off Soda When You Buy Three or More Packs at Target...BETTER Price Than the Buy 3, Get 3 Free Sale at Fry's!
+date: 2026-09-02
+author: Alicia
+tags: [Happiness, Holiday, Target]
+status: published
+cover: asset:images/wp/2026/09/download-44.png
+---
+
+_Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure_ [here](../about/)_._
+
+![image.png](https://mail.google.com/mail/u/0?ui=2&ik=86c51972fd&attid=0.1&permmsgid=msg-a:r-4782409293044712613&th=1a063a503cc92a04&view=fimg&fur=ip&permmsgid=msg-a:r-4782409293044712613&sz=s0-l75-ft&attbid=ANGjdJ_n2hgz4gH7n3ian7nJt3TEcwsqYtiOLRrtqgH8KRBeVEFye14UqQ7sOjEQDb5136pboP_V6y3fwD4oE9jGLy2RxFA5LoMfS6GjguoPaZvExen2sQoQV1Jou9g&disp=emb&realattid=ii_mtki5hee0&zw) For Labor Day weekend, soda always goes on sale. If you drink it, this is the perfect time to stock up. [Head over here to get 40% off different varieties when you buy 3 or more packs](https://trk.shophermedia.net/click.track?CID=443359&AFID=302333&SID=&url=https%3A%2F%2Fwww%2Etarget%2Ecom%2Fpl%2F395559432). This works out to be a BETTER deal than the buy 3, get 3 free sale at Fry's. Here's how... ![Diet Coke Soda - 12pk/12 fl oz Cans, 1 of 9](https://target.scene7.com/is/image/Target/GUEST_71b428bb-c112-4b80-8f8d-f4e249f4aedc?wid=800&hei=800&qlt=80&fmt=pjpeg) Let's say you love Diet Coke (keep in mind Dr. Pepper is an even better deal). [Head over here](https://trk.shophermedia.net/click.track?CID=443359&AFID=302333&SID=&url=https%3A%2F%2Fwww%2Etarget%2Ecom%2Fp%2Fdiet%2Dcoke%2D12pk%2D12%2Dfl%2Doz%2Dcans%2F%2D%2FA%2D12953514%23lnk%3Dsametab) to get 12-packs marked down from $8.89 to $5.33 when you buy 3 or more. To compare, Diet Coke 12-packs at Fry's are marked at $11.99/each right now. When you buy 6 and get 3 free, that makes the per-pack total higher at Fry's ($5.99). Also, [check your Target Circle account](https://trk.shophermedia.net/click.track?CID=443359&AFID=302333&SID=&url=https%3A%2F%2Fwww%2Etarget%2Ecom%2Fpl%2F443729538) to see if you have a bonus for [$5 off your $30 food and beverage](https://trk.shophermedia.net/click.track?CID=443359&AFID=302333&SID=&url=https%3A%2F%2Fwww%2Etarget%2Ecom%2Fpl%2F443729538) purchase. If you applied the $5 off to 6 12-packs of Diet Coke, your total price would be $29.01 (you can buy online and pick up in-store from the comfort of your car with drive-up). To compare, you'd pay $35.97 for 6 12-packs of Diet Coke with the Fry's deal. Plus, you'd have to buy 6 (you can save when you buy just 3 at Target). Enjoy!

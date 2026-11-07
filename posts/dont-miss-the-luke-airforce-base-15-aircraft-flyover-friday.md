@@ -1,0 +1,18 @@
+---
+slug: dont-miss-the-luke-airforce-base-15-aircraft-flyover-friday
+title: Don't Miss the Luke Airforce Base 15-Aircraft Flyover Friday Starting at 3:10 to Honor Covid-19 Responders! Check Out the Map!
+date: 2020-04-30
+author: Alicia
+tags: [Free]
+status: published
+---
+
+![](http://52.12.186.239/wp-content/uploads/2020/04/flyby-1-300x183.png)
+
+This is AWESOME and definitely something we won't want to miss! [Head over here to check out the flight path of the 15-aircraft flyover happening Friday, May 1st starting at 3:10 PM](https://www.facebook.com/photo?fbid=3099003693455908&set=pcb.3099020213454256) and lasting 50 minutes.
+
+Check out the details:
+
+"Luke Air Force Base, to include the 56th Fighter Wing and the [**944th Fighter Wing**](https://www.facebook.com/944thFighterWing.LukeAFB/?__cft__[0]=AZU0ZXTgsjzmgDiNHSTFFcZYLUjsxhz2gwwrzyttoPT15RRoSybQ-tD7ST9LS37Y2soKfEM_gR5kHWSp0weDgAwzlpl-Qbx45q3wYRVVhSD5lLgXxvo2sQpE1BbN78vrhxgr19WOUM2ZMCXx6iITpOPKp334zqVg1A5HuJj56GH7UA&__tn__=kK-R), along with the Arizona National Guard [**161st Air Refueling Wing**](https://www.facebook.com/161ARW/?__cft__[0]=AZU0ZXTgsjzmgDiNHSTFFcZYLUjsxhz2gwwrzyttoPT15RRoSybQ-tD7ST9LS37Y2soKfEM_gR5kHWSp0weDgAwzlpl-Qbx45q3wYRVVhSD5lLgXxvo2sQpE1BbN78vrhxgr19WOUM2ZMCXx6iITpOPKp334zqVg1A5HuJj56GH7UA&__tn__=kK-R) will honor Arizona's front line COVID-19 responders with a community flyover May 1, 2020."We are honored to extend our heartfelt gratitude to all the healthcare workers, first responders, military members and other essential personnel who are working on the front lines to combat the coronavirus," said Brig. Gen. Todd Canterbury, 56th Fighter Wing commander. "We want everyone to be able to look up from their homes and enjoy the display of American airpower, resolve and pride while keeping frontline defenders in their hearts." A formation of 15 aircraft, including seven F-35A Lightning IIs and seven F-16 Fighting Falcons flying out of Luke Air Force Base and one KC-135 from the 161st ARW will begin the flyover at approximately 3:10 p.m. local and will last 50 minutes. The flight path will bring them through Buckeye, Luke Air Force Base, Litchfield Park, Surprise, Waddell, Goodyear, Tolleson, Phoenix Metro, Tempe, Chandler, Gilbert, Mesa, Scottsdale, Deer Valley, Glendale, Peoria, Sun City West, and El Mirage. Residents along the flight path can expect a few seconds of jet noise as the aircraft pass overhead. Residents in these areas will be able to see the flyover from the safety of their homes and should maintain all social distancing guidelines during this event. They should also refrain from traveling to landmarks, hospitals and gathering in large groups to view the flyover. We welcome and encourage viewers to tag us on social media in photos and videos of the formation with the hashtag [#LukeSalutes](https://www.facebook.com/hashtag/lukesalutes?__cft__[0]=AZU0ZXTgsjzmgDiNHSTFFcZYLUjsxhz2gwwrzyttoPT15RRoSybQ-tD7ST9LS37Y2soKfEM_gR5kHWSp0weDgAwzlpl-Qbx45q3wYRVVhSD5lLgXxvo2sQpE1BbN78vrhxgr19WOUM2ZMCXx6iITpOPKp334zqVg1A5HuJj56GH7UA&__tn__=*NK-R), [#AirForceSalutes](https://www.facebook.com/hashtag/airforcesalutes?__cft__[0]=AZU0ZXTgsjzmgDiNHSTFFcZYLUjsxhz2gwwrzyttoPT15RRoSybQ-tD7ST9LS37Y2soKfEM_gR5kHWSp0weDgAwzlpl-Qbx45q3wYRVVhSD5lLgXxvo2sQpE1BbN78vrhxgr19WOUM2ZMCXx6iITpOPKp334zqVg1A5HuJj56GH7UA&__tn__=*NK-R), and [#FlyoverFriday](https://www.facebook.com/hashtag/flyoverfriday?__cft__[0]=AZU0ZXTgsjzmgDiNHSTFFcZYLUjsxhz2gwwrzyttoPT15RRoSybQ-tD7ST9LS37Y2soKfEM_gR5kHWSp0weDgAwzlpl-Qbx45q3wYRVVhSD5lLgXxvo2sQpE1BbN78vrhxgr19WOUM2ZMCXx6iITpOPKp334zqVg1A5HuJj56GH7UA&__tn__=*NK-R). For questions, please call the Luke AFB Public Affairs Office at (623) 856-6011."
+
+Thanks David!

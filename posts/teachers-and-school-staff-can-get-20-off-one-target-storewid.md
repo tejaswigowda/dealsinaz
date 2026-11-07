@@ -1,0 +1,18 @@
+---
+slug: teachers-and-school-staff-can-get-20-off-one-target-storewid
+title: Teachers and School Staff Can Get 20% off One Target Storewide Purchase!
+date: 2024-07-23
+author: Alicia
+tags: [Target]
+status: published
+---
+
+_Alicia’s Deals may receive a commission via affiliate links in this post. Please see my full disclosure_ [_here_](../about/)_._
+
+![](https://dealsinaz.com/wp-content/uploads/2024/07/download-2024-07-15T083140.576.png)
+
+Please let all of the teachers and school staff in your life know about this deal! [They can head over here to get verified and score 20% off one storewide purchase](https://trk.shophermedia.net/click.track?CID=443359&ADID=2539781&AFID=302333&SID=&u=https%3A%2F%2Fwww%2Etarget%2Ecom%2Fl%2Ftarget%2Dcircle%2Dteacher%2Dappreciation%2F%2D%2FN%2D2dktv). They must join [Target Circle](https://trk.shophermedia.net/click.track?CID=443359&ADID=2539781&AFID=302333&SID=&u=https%3A%2F%2Fwww%2Etarget%2Ecom%2Fl%2Ftarget%2Dcircle%2F%2D%2FN%2Dpzno9) if they haven't already. This could help make back-to-school shopping a lot less expensive!
+
+"Excludes alcohol, Apple products, Barbie camper and houses, Beats, Black History Month, Bose, Breville, Bullseye’s Playground, Cards Against Humanity, Casper, clinic & pharmacy, Cricut, dairy milk, Disney Princess Castle, Do-a-Dot, Doona, DSLR cameras & lenses, Dynamic Coins, Dyson, Dyson Toys, Fitbit, gift cards, GilletteLabs Heated Razor Starter Kit by Gillette – 3ct, Google, Hair Appliances, HALO Baby, Healthy Roots Dolls, HP Inc., ICU reading glasses, Infant Optics, JBL, Jewelry Cleaner, Kendra Scott, Latino Heritage Month, LEGO, Levi’s Red Label, LG OLED and QNED TVs, limited-time designer partnerships, Lovevery, Meta Oculus and Portal, mobile contracts,Nintendo hardware and Switch games, Polder, Philips Avent, Plan B, power shave, power dental, prepaid cards, Play-Doh Ice Cream Truck Playset, PlayStation - consoles, virtual reality and accessories, Pride, Revival, Samsung TVs, Shipt Membership, Shoe Care, simplehuman, Sonos, Sony Electronics, Take Action, Stanley, Target Optical, Tempur-Sealy, Trading Cards, Umbrellas, Ulta Beauty at Target Brands, Unlocked phones, Vera Bradley handbags, Weber, WonderFold."
+
+Enjoy!

@@ -1,0 +1,28 @@
+---
+slug: today-is-the-day-to-buy-winter-wonderland-tickets-for-12-usu
+title: Today is the Day to Buy Winter Wonderfest Tickets for $12 (Usually $22)! New Huge Event Coming to Town!
+date: 2017-10-10
+status: published
+---
+
+![groupon3](https://dealsinaz.com/deals/wp-content/uploads/2015/10/groupon3.jpg)
+
+![win](https://dealsinaz.com/deals/wp-content/uploads/2017/08/win-1.png)
+
+[Head over here to get a ticket to the Winter Wonderfest coming to Chandler on weekends from November 24th-December 24th for](https://click.linksynergy.com/link?id=y2DT8GO2AJA&offerid=503840.10527812936&type=2&murl=https%3A%2F%2Fwww.groupon.com%2Fdeals%2Fgl-winter-wonderfest-arizona) [~~$12~~](https://click.linksynergy.com/link?id=y2DT8GO2AJA&offerid=503840.10527812936&type=2&murl=https%3A%2F%2Fwww.groupon.com%2Fdeals%2Fgl-winter-wonderfest-arizona) ~~with code 20NOW~~ (usually $22, code good 10/10 ONLY). I would buy each ticket separately (with the code of course) so you can save $3 off every time (up to 3).
+
+I am such a Christmas lover and I can't wait for this new event coming to town! It's an affordable option for families who can't get away for the weekend and sounds amazing (I really hope it's as good as it sounds).
+
+[Check out more information about the event](https://click.linksynergy.com/link?id=y2DT8GO2AJA&offerid=503840.10527812936&type=2&murl=https%3A%2F%2Fwww.groupon.com%2Fdeals%2Fgl-winter-wonderfest-arizona):
+
+_“Winter WonderFest is open from Friday through Sunday from 2:00-10:00 p.m._
+
+### Winter WonderFest
+
+- **The experience**: Write a letter to Santa and take a picture with him on his North Pole throne, then have a stroll through Gingerbread Lane—lined with gumdrop trees and candy-cane fences—where you can step inside a life-size gingerbread house. After that, pay a visit to the Ice Princess in her enchanting ice castle, and warm up in S’mores Land while roasting a marshmallow over a cackling fire.
+- **The activities**: Zoom along a 300-foot zipline, ride on the carousel or ferris wheel, conquer the rock-climbing wall, take a spin in a human hamster ball, or bounce around one of 20 inflatable attractions.
+- **The vendors**: Shop unique holiday gifts for everyone on your list at the Vintage & Handmade Market, and refuel at one of the food trucks (adults can grab beer, wine, or a holiday cocktail at one of the bars).”
+
+Enjoy!
+
+Disclosure: Some companies choose to share referral fees or small affiliate fees with me when you click links which help support the site. Thank you for being a part of Alicia’s Deals!

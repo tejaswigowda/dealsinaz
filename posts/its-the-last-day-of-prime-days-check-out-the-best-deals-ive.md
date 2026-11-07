@@ -1,0 +1,14 @@
+---
+slug: its-the-last-day-of-prime-days-check-out-the-best-deals-ive
+title: It's the LAST DAY of Prime Days! Check Out the Best Deals I've Found!
+date: 2026-06-26
+author: Alicia
+tags: [Amazon, EXPIRED, HOT DEAL]
+status: published
+---
+
+_Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure_ [here](../about/)_._
+
+![](asset:images/wp/2026/06/download-2026-06-03T085526.734.png)
+
+[Amazon Prime Day ENDS TONIGHT (June 26th). Head over here to check out my favorite deals to score before they're gone:](https://amzn.to/4uehHgw) ![](https://m.media-amazon.com/images/I/616ylsgZslL._SL1500_.jpg) This one's expensive, but it's awesome. [Head over here to get 30% off the Dyson ID Airwrap Multi-Styler.](https://amzn.to/4xVPMoE) You'll pay $499.99 instead of the $709.99 list price. It has bluetooth that is supposed to make it a lot easier to get a consistent hair style every time. I have an Airwrap and while there was a learning curve, it has completely changed my hair routine. I love that it doesn't damage your hair and it really cuts down on frizz (especially with the included serum). ![](https://m.media-amazon.com/images/I/81Gb4ye0MAL._SL1500_.jpg) [Head over here](https://amzn.to/4f9mhXZ) to pick up a Sol de Janiero Jet Set travel kit INCLUDING my favorite Bum Bum cream for $20.40 (usually $34, a $40 value). It comes with two other fabulous-smelling products too. ![](https://m.media-amazon.com/images/I/61jnD+y+ceL._SL1500_.jpg) [Head over here to get a Shiseido Clear Sunscreen Stick SPF60](https://amzn.to/4eIxtKH) that you can use under OR over makeup for $19.80 (40% off the normal $33 price). Check out the reviews! ![](https://m.media-amazon.com/images/I/71XyGxT1ITL._AC_SL1500_.jpg) [Head over here](https://amzn.to/4w4FAIG) to get a super highly rated Instant Pot Air Fryer for 54% off! You'll pay $59.98 instead of $129.99! It can air fry, bake, roast, broil, dehydrate, or reheat easily. If you don't have an air fryer, this is a deal (and it will make your life easier). ![](https://m.media-amazon.com/images/I/81rTD1jLpkL._SL1500_.jpg) I love saving on things I use literally every day and this is my toothpaste! [Head over here to get three tubes of Colgate Optic White Advanced Hydrogen Peroxide Formula](https://amzn.to/4gdpzLX) for just $8.49 (usually $14.99). If you choose to subscribe and save you'll get three tubes for $7.22! I love that it's enamel safe (and actually works)! ![](https://m.media-amazon.com/images/I/81C7Vj78BgL._AC_SL1500_.jpg) If you have kids, [head over here](https://amzn.to/4vtszZf) to get a HUGE box of Legos for $33.49 (usually around $60). I love that this promotes creativity (they'll get to make whatever they want)! ![](https://m.media-amazon.com/images/I/61RFePlMqkL._SL1500_.jpg) This [Tarte Shape Tape Creamy Concealer is just $19.20](https://amzn.to/4eOCAcs) (usually $32) and has a built-in eye cream. This stuff works like magic on dark circles
