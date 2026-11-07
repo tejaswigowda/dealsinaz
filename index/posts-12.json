@@ -2,6 +2,17 @@
   "version": 3,
   "posts": [
     {
+      "slug": "testing-6",
+      "title": "testing 6",
+      "date": "2026-11-07",
+      "tags": [],
+      "excerpt": "testing 6",
+      "cover": "asset:images/5ab6b75a92-hc2rluqa.jpg",
+      "words": 2,
+      "status": "published",
+      "author": "Alicia Markham"
+    },
+    {
       "slug": "9-99-normally-16-99-for-a-festive-light-up-ghost-garland-gre",
       "title": "$9.99 (Normally $16.99) for a Festive Light-Up Ghost Garland...Great Reviews!",
       "date": "2026-10-21",

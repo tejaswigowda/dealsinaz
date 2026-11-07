@@ -2,6 +2,14 @@
   "version": 1,
   "posts": [
     {
+      "slug": "testing-6",
+      "title": "testing 6",
+      "date": "2026-11-07",
+      "tags": [],
+      "excerpt": "testing 6",
+      "text": "testing 6"
+    },
+    {
       "slug": "9-99-normally-16-99-for-a-festive-light-up-ghost-garland-gre",
       "title": "$9.99 (Normally $16.99) for a Festive Light-Up Ghost Garland...Great Reviews!",
       "date": "2026-10-21",
