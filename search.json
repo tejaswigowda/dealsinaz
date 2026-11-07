@@ -2,6 +2,14 @@
   "version": 1,
   "posts": [
     {
+      "slug": "testing",
+      "title": "testing",
+      "date": "2026-11-07",
+      "tags": [],
+      "excerpt": "blog test",
+      "text": "blog test"
+    },
+    {
       "slug": "military-families-are-eligible-for-an-extra-20-off-at-target",
       "title": "Military Families are Eligible for an EXTRA 20% off at Target Through 11/11! Get Verified Now!",
       "date": "2026-11-05",
