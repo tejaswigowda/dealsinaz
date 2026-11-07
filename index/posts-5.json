@@ -2,17 +2,6 @@
   "version": 3,
   "posts": [
     {
-      "slug": "test2",
-      "title": "test2",
-      "date": "2026-11-07",
-      "tags": [],
-      "excerpt": "testing 2nd",
-      "cover": "asset:images/5ab6b75a92-hc2rluqa.jpg",
-      "words": 2,
-      "status": "published",
-      "author": "Alicia Markham"
-    },
-    {
       "slug": "the-chipotle-boo-rito-is-back-with-a-catch",
       "title": "The $6 Chipotle Boo-Rito is Back With a Catch!",
       "date": "2026-10-30",
