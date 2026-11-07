@@ -2,14 +2,6 @@
   "version": 1,
   "posts": [
     {
-      "slug": "testing-5",
-      "title": "testing 5",
-      "date": "2026-11-07",
-      "tags": [],
-      "excerpt": "testing 5",
-      "text": "testing 5"
-    },
-    {
       "slug": "the-chipotle-boo-rito-is-back-with-a-catch",
       "title": "The $6 Chipotle Boo-Rito is Back With a Catch!",
       "date": "2026-10-30",
