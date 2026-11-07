@@ -2,17 +2,6 @@
   "version": 3,
   "posts": [
     {
-      "slug": "test-b3",
-      "title": "test b3",
-      "date": "2026-11-07",
-      "tags": [],
-      "excerpt": "csc",
-      "cover": "asset:images/ef31e42728-fjoznw-.jpg",
-      "words": 1,
-      "status": "published",
-      "author": "Alicia Markham"
-    },
-    {
       "slug": "happy-amazon-prime-day-my-top-picks",
       "title": "Happy Amazon Prime Day! My Top Deal Picks (I Have Them All)!",
       "date": "2026-10-07",
