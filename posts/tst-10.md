@@ -9,6 +9,4 @@ cover: auto
 
 test 10
 
-![](asset:images/5ab6b75a92-hc2rluqa.jpg)
-
 ![](asset:images/ef31e42728-fjoznw-.jpg)
