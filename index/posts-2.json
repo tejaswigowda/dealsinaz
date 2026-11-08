@@ -2,17 +2,6 @@
   "version": 3,
   "posts": [
     {
-      "slug": "tst-10",
-      "title": "tst 10",
-      "date": "2026-11-07T17:06",
-      "tags": [],
-      "excerpt": "test 10",
-      "cover": "asset:images/ef31e42728-fjoznw-.jpg",
-      "words": 2,
-      "status": "published",
-      "author": "Alicia Markham"
-    },
-    {
       "slug": "score-a-free-amazon-kids-holiday-gift-book-full-of-stickers",
       "title": "Score a FREE Amazon Kids Holiday Gift Book Full of Stickers and Activities Mailed to Your Door!",
       "date": "2026-10-19",
