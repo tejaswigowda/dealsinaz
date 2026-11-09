@@ -1,6 +1,6 @@
 ---
 slug: testing-6
-title: testing 6
+title: testing 67
 date: 2026-11-07
 tags: []
 status: published
