@@ -2,17 +2,6 @@
   "version": 3,
   "posts": [
     {
-      "slug": "testing-8",
-      "title": "testing 8",
-      "date": "2026-11-07",
-      "tags": [],
-      "excerpt": "testing 8",
-      "cover": "asset:images/94a7e49cbf-untitled-3.png",
-      "words": 2,
-      "status": "published",
-      "author": "Alicia Markham"
-    },
-    {
       "slug": "want-to-see-what-amazon-knows-or-thinks-it-knows-about-you-f",
       "title": "Want to See What Amazon Knows About You? Some Tidbits are Shocking...Find Out Here!",
       "date": "2026-10-15",
