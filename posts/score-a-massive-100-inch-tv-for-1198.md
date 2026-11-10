@@ -2,7 +2,7 @@
 slug: score-a-massive-100-inch-tv-for-1198
 title: Score a Massive 100-Inch TV for $1198!
 date: 2026-11-10T10:09
-tags: []
+tags: [newest deals, Sam's Club]
 status: published
 cover: asset:images/57eef5f490-download-75-.png
 ---
