@@ -5,7 +5,6 @@ date: 2026-11-10T10:09
 tags: [newest deals, Sam's Club]
 status: published
 cover: asset:images/57eef5f490-download-75-.png
-description: test
 ---
 
 _`Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure`_ [`here`](https://dealsinaz.com/about/)_`.`_
