@@ -6,6 +6,7 @@ author: Alicia
 tags: [Target]
 status: published
 cover: asset:images/wp/2026/11/GUEST_75392f76-3d29-4625-a4d7-f6f72c475a92.webp
+description: Target, Veteran's Day, dealsinaz
 ---
 
 _Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure_ [here](../about/)_._
