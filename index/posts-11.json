@@ -2,17 +2,6 @@
   "version": 3,
   "posts": [
     {
-      "slug": "testingr",
-      "title": "Testing",
-      "date": "2026-11-11T12:21",
-      "tags": [],
-      "excerpt": "",
-      "cover": "asset:images/ccd3908890-11779.jpg",
-      "words": 0,
-      "status": "published",
-      "author": "Alicia Markham"
-    },
-    {
       "slug": "new-costco-membership-deal-like-joining-for-20",
       "title": "New Costco Membership Deal...Like Joining for $20!",
       "date": "2026-10-29",
