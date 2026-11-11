@@ -153,5 +153,9 @@
   "stylesheet": "linked",
   "seo": {
     "noindex": true
+  },
+  "comments": {
+    "mode": "mailto",
+    "to": "tejaswi@foxyninjastudios.com"
   }
 }
