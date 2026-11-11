@@ -30,7 +30,7 @@
     "headingFont": "serif",
     "width": "1200px",
     "topbar": {
-      "text": "Arizona's #1 Source for Local Deals & Savings! ♥",
+      "text": "Demo copy of a real site, not the original. Arizona's #1 Source for Local Deals & Savings! ♥",
       "links": [
         {
           "label": "Facebook",
@@ -150,5 +150,8 @@
       "images": "tejaswigowda/dealsinaz/images"
     }
   },
-  "stylesheet": "linked"
+  "stylesheet": "linked",
+  "seo": {
+    "noindex": true
+  }
 }
